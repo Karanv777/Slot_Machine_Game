@@ -35,8 +35,8 @@ SlotMachineGame/
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/Karanv777/SlotMachineGame.git
-cd SlotMachineGame
+git clone https://github.com/Karanv777/Slot_Machine_Game.git
+cd Slot_Machine_Game
 ```
 
 2. **Run the game**
